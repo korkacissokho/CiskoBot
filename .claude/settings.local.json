@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(php \"c:/Users/ah/Desktop/Projet Senegal/test_sms.php\")",
+      "Bash(where php:*)",
+      "Read(//c/php/**)",
+      "Read(//c/xampp/php/**)",
+      "Bash(ls /c/wamp*/bin/php/*/php.exe)",
+      "Bash(find /c -name \"php.exe\")",
+      "Bash(/c/xampp/php/php.exe \"c:/Users/ah/Desktop/Projet Senegal/test_sms.php\")",
+      "Bash(setx PATH \"C:\\\\xampp\\\\php;%PATH%\")",
+      "Bash(npm install:*)",
+      "Bash(timeout 6 node index.js)",
+      "Bash(where node:*)",
+      "Bash(timeout 5 npm start)",
+      "Bash(/c/xampp/php/php.exe -l admin/whatsapp.php)",
+      "Bash(/c/xampp/php/php.exe -l admin/_layout.php)"
+    ]
+  }
+}

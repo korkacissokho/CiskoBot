@@ -1,0 +1,173 @@
+[13/04 01:04:58] [IN] from=+6657971097669@lid text="hello"
+[13/04 01:04:58] [OUT] to=+6657971097669@lid | OK | "Bienvenue chez Cissokho !
+Voici nos formations disponibles :"
+[13/04 01:08:11] [IN] from=+6657971097669@lid text="hello"
+[13/04 01:08:12] [OUT] to=+6657971097669@lid | OK | "Bienvenue chez Cissokho !
+Voici nos formations disponibles :"
+[13/04 01:08:21] [IN] from=+6657971097669@lid text="1"
+[13/04 01:08:22] [OUT] to=+6657971097669@lid | OK | "Vous avez selectionne :
+Test
+Prix : 1 000 FCFA
+
+Pour payer, "
+[13/04 01:11:25] [IN] from=+6657971097669@lid text="hello"
+[13/04 01:11:25] [OUT] to=+6657971097669@lid | OK | "🎓 *Cissokho Formations*
+━━━━━━━━━━━"
+[13/04 01:11:29] [IN] from=+6657971097669@lid text="1"
+[13/04 01:11:29] [OUT] to=+6657971097669@lid | OK | "✅ *Formation sélectionnée*
+
+📚 *Test*
+💰 Montant : *"
+[13/04 01:11:38] [IN] from=+6657971097669@lid text="PAY"
+[13/04 01:11:39] [OUT] to=+6657971097669@lid | OK | "🎉 *Merci pour votre paiement !*
+
+📋 *Test*
+
+Notre équi"
+[13/04 01:11:48] [IN] from=+status@broadcast text="Sénégal 🇸🇳 dou ndey reww koi 😂😂"
+[13/04 01:11:48] [OUT] to=+status@broadcast | OK | "🎓 *Cissokho Formations*
+━━━━━━━━━━━"
+[13/04 01:12:46] [IN] from=+status@broadcast text="SENEGAL
+STOP
+MACKY SALL
+AT THE UNITED NATIONS STAND UP FOR JUSTICE DEMAND ACCOUN"
+[13/04 01:12:46] [OUT] to=+status@broadcast | OK | "🤔 Je n'ai pas compris votre choix.
+
+🎓 *Cissokho Format"
+[13/04 01:15:45] [IN] from=+6657971097669@lid text="Hello"
+[13/04 01:15:46] [OUT] to=+6657971097669@lid | OK | "🎓 *Cissokho Formations*
+━━━━━━━━━━━"
+[13/04 01:15:56] [IN] from=+6657971097669@lid text="1"
+[13/04 01:15:57] [OUT] to=+6657971097669@lid | OK | "✅ *Formation sélectionnée*
+
+📚 *Fascicule CFEE*
+💰 M"
+[13/04 01:16:21] [IN] from=+6657971097669@lid text="PAY"
+[13/04 01:16:22] [OUT] to=+6657971097669@lid | OK | "🎉 *Merci pour votre paiement !*
+
+📋 *Fascicule CFEE*
+
+N"
+[13/04 01:18:46] [IN] from=+6657971097669@lid text="hello"
+[13/04 01:18:47] [OUT] to=+6657971097669@lid | OK | "🎓 *Cissokho Formations*
+━━━━━━━━━━━"
+[13/04 01:18:50] [IN] from=+6657971097669@lid text="1"
+[13/04 01:18:50] [OUT] to=+6657971097669@lid | OK | "⚠️ *Commande déjà en cours*
+
+📚 Fascicule CFEE
+
+Notr"
+[13/04 01:19:05] [IN] from=+6657971097669@lid text="MENU"
+[13/04 01:19:06] [OUT] to=+6657971097669@lid | OK | "🎓 *Cissokho Formations*
+━━━━━━━━━━━"
+[13/04 01:19:09] [IN] from=+6657971097669@lid text="2"
+[13/04 01:19:10] [OUT] to=+6657971097669@lid | OK | "📚 *Fascicule CFEE 2*
+
+Un exemple de publication
+
+💰 Pri"
+[13/04 01:19:20] [IN] from=+6657971097669@lid text="ANNULER"
+[13/04 01:19:20] [OUT] to=+6657971097669@lid | OK | "↩️ *Commande annulée*
+
+🎓 *Cissokho Formations*
+━�"
+[13/04 01:19:39] [IN] from=+6657971097669@lid text="hello"
+[13/04 01:19:39] [OUT] to=+6657971097669@lid | OK | "🎓 *Cissokho Formations*
+━━━━━━━━━━━"
+[13/04 01:19:44] [IN] from=+6657971097669@lid text="1"
+[13/04 01:19:45] [OUT] to=+6657971097669@lid | OK | "⚠️ *Commande déjà en cours*
+
+📚 Fascicule CFEE
+
+Notr"
+[13/04 01:19:47] [IN] from=+status@broadcast text="Nio taaru  deuk waay machallah"
+[13/04 01:19:47] [OUT] to=+status@broadcast | OK | "🤔 Je n'ai pas compris votre choix.
+
+🎓 *Cissokho Format"
+[13/04 01:21:36] [IN] from=+6657971097669@lid text="hello"
+[13/04 01:21:37] [OUT] to=+6657971097669@lid | OK | "🎓 *Cissokho Formations*
+━━━━━━━━━━━"
+[13/04 01:21:39] [IN] from=+6657971097669@lid text="1"
+[13/04 01:21:39] [OUT] to=+6657971097669@lid | OK | "📚 *Fascicule CFEE*
+
+Faciite la reussite de l'eleve au CFE"
+[13/04 01:22:12] [IN] from=+6657971097669@lid text="ANNULER"
+[13/04 01:22:13] [OUT] to=+6657971097669@lid | OK | "↩️ *Commande annulée*
+
+🎓 *Cissokho Formations*
+━�"
+[13/04 01:23:59] [IN] from=+6657971097669@lid text="Hello"
+[13/04 01:23:59] [OUT] to=+6657971097669@lid | OK | "🎓 *Cissokho Formations*
+━━━━━━━━━━━"
+[13/04 01:24:04] [IN] from=+status@broadcast text="Al khalifa borom ziar bi ...
+
+
+
+
+
+
+
+Yalla na yalla nagou ziar yeup si barké sey"
+[13/04 01:24:04] [OUT] to=+status@broadcast | OK | "🤔 Je n'ai pas compris votre choix.
+
+🎓 *Cissokho Format"
+[13/04 01:24:10] [IN] from=+6657971097669@lid text="4"
+[13/04 01:24:10] [OUT] to=+6657971097669@lid | OK | "📚 *Fascicule CFEE 3*
+
+Video Zip
+
+💰 Prix : *3 000 FCFA*"
+[13/04 01:24:27] [IN] from=+6657971097669@lid text="PAY"
+[13/04 01:24:27] [OUT] to=+6657971097669@lid | OK | "🎉 *Merci pour votre paiement !*
+
+📋 *Fascicule CFEE 3*
+"
+[13/04 01:28:05] [IN] from=+215117950095600@lid text="Hello"
+[13/04 01:28:06] [OUT] to=+215117950095600@lid | OK | "🎓 *Cissokho Formations*
+━━━━━━━━━━━"
+[13/04 01:28:16] [IN] from=+215117950095600@lid text="4"
+[13/04 01:28:16] [OUT] to=+215117950095600@lid | OK | "📚 *Fascicule CFEE 3*
+
+Video Zip
+
+💰 Prix : *3 000 FCFA*"
+[13/04 01:28:26] [IN] from=+215117950095600@lid text="Pay"
+[13/04 01:28:27] [OUT] to=+215117950095600@lid | OK | "🎉 *Merci pour votre paiement !*
+
+📋 *Fascicule CFEE 3*
+"
+[13/04 01:29:24] [IN] from=+215117950095600@lid text="Menu"
+[13/04 01:29:24] [OUT] to=+215117950095600@lid | OK | "🎓 *Cissokho Formations*
+━━━━━━━━━━━"
+[13/04 01:29:28] [IN] from=+215117950095600@lid text="4"
+[13/04 01:29:28] [OUT] to=+215117950095600@lid | OK | "📚 *Fascicule CFEE 3*
+
+Video Zip
+
+💰 Prix : *3 000 FCFA*"
+[13/04 01:29:31] [IN] from=+215117950095600@lid text="Pay"
+[13/04 01:29:32] [OUT] to=+215117950095600@lid | OK | "🎉 *Merci pour votre paiement !*
+
+📋 *Fascicule CFEE 3*
+"
+[13/04 01:30:32] [IN] from=+120363293902148468@newsletter text="https://acrobat.adobe.com/id/urn:aaid:sc:EU:26034c2b-5a78-4c68-bd3f-b864fd66038e"
+[13/04 01:30:32] [OUT] to=+120363293902148468@newsletter | OK | "🎓 *Cissokho Formations*
+━━━━━━━━━━━"
+[13/04 01:33:09] [IN] from=+120363293902148468@newsletter text="*📘 FASCICULE DE PRÉPARATION AU CONCOURS CESTI 2026/2027 🎯*
+
+Tu veux réus"
+[13/04 01:33:09] [OUT] to=+120363293902148468@newsletter | OK | "🤔 Je n'ai pas compris votre choix.
+
+🎓 *Cissokho Format"
+[13/04 01:35:09] [IN] from=+status@broadcast text="HD fr Je te tt sauf l’echec  . Le futur le Mr le maire 🤓🎧💍"
+[13/04 01:35:09] [OUT] to=+status@broadcast | OK | "🤔 Je n'ai pas compris votre choix.
+
+🎓 *Cissokho Format"
+[13/04 01:35:34] [IN] from=+status@broadcast text="Ki damako beug billahi goor deug"
+[13/04 01:35:34] [OUT] to=+status@broadcast | OK | "🤔 Je n'ai pas compris votre choix.
+
+🎓 *Cissokho Format"
+[13/04 01:43:05] [IN] from=+status@broadcast text="Andou bou yague bi  profite bien fr✌️🎧🎧🫡💍"
+[13/04 01:43:05] [OUT] to=+status@broadcast | OK | "🤔 Je n'ai pas compris votre choix.
+
+🎓 *Cissokho Format"

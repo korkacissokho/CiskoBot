@@ -1,0 +1,23 @@
+{
+  "name": "cissokho-whatsapp-api",
+  "version": "1.0.0",
+  "description": "API WhatsApp locale basée sur Baileys — Cissokho",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --env-file=.env index.js",
+    "dev": "node --env-file=.env --watch index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.9",
+    "@hapi/boom": "^10.0.1",
+    "express": "^4.19.2",
+    "pino": "^9.3.2",
+    "qrcode": "^1.5.4",
+    "qrcode-terminal": "^0.12.0",
+    "sharp": "^0.33.4"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

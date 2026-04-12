@@ -1,0 +1,12 @@
+{
+  "name": "cissokho",
+  "version": "1.0.0",
+  "description": "Cissokho — Bot WhatsApp + Admin PHP",
+  "private": true,
+  "scripts": {
+    "start": "concurrently --kill-others-on-fail --prefix-colors \"bgGreen.black,bgBlue.black\" --names \"WhatsApp,PHP\" \"npm --prefix whatsapp-api start\" \"C:\\\\xampp\\\\php\\\\php.exe -S localhost:8000\""
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.2"
+  }
+}
