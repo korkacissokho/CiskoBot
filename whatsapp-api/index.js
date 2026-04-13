@@ -24,6 +24,19 @@ import { fileURLToPath } from 'url'
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url))
 
+// Charger .env s'il existe (local). En production, les vars viennent de la plateforme.
+const _envPath = path.join(__dirname, '.env')
+if (fs.existsSync(_envPath)) {
+  for (const line of fs.readFileSync(_envPath, 'utf8').split('\n')) {
+    const trimmed = line.trim()
+    if (!trimmed || trimmed.startsWith('#') || !trimmed.includes('=')) continue
+    const eq  = trimmed.indexOf('=')
+    const key = trimmed.slice(0, eq).trim()
+    const val = trimmed.slice(eq + 1).trim()
+    if (key && !(key in process.env)) process.env[key] = val
+  }
+}
+
 // ── Configuration ────────────────────────────────────────────
 const PORT        = parseInt(process.env.PORT        || '3000')
 const API_TOKEN   = process.env.API_TOKEN            || 'change_this_token'

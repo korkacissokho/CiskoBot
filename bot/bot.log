@@ -1,27 +1,3 @@
-[13/04 01:04:58] [IN] from=+6657971097669@lid text="hello"
-[13/04 01:04:58] [OUT] to=+6657971097669@lid | OK | "Bienvenue chez Cissokho !
-Voici nos formations disponibles :"
-[13/04 01:08:11] [IN] from=+6657971097669@lid text="hello"
-[13/04 01:08:12] [OUT] to=+6657971097669@lid | OK | "Bienvenue chez Cissokho !
-Voici nos formations disponibles :"
-[13/04 01:08:21] [IN] from=+6657971097669@lid text="1"
-[13/04 01:08:22] [OUT] to=+6657971097669@lid | OK | "Vous avez selectionne :
-Test
-Prix : 1 000 FCFA
-
-Pour payer, "
-[13/04 01:11:25] [IN] from=+6657971097669@lid text="hello"
-[13/04 01:11:25] [OUT] to=+6657971097669@lid | OK | "🎓 *Cissokho Formations*
-━━━━━━━━━━━"
-[13/04 01:11:29] [IN] from=+6657971097669@lid text="1"
-[13/04 01:11:29] [OUT] to=+6657971097669@lid | OK | "✅ *Formation sélectionnée*
-
-📚 *Test*
-💰 Montant : *"
-[13/04 01:11:38] [IN] from=+6657971097669@lid text="PAY"
-[13/04 01:11:39] [OUT] to=+6657971097669@lid | OK | "🎉 *Merci pour votre paiement !*
-
-📋 *Test*
 
 Notre équi"
 [13/04 01:11:48] [IN] from=+status@broadcast text="Sénégal 🇸🇳 dou ndey reww koi 😂😂"
@@ -169,5 +145,56 @@ Tu veux réus"
 🎓 *Cissokho Format"
 [13/04 01:43:05] [IN] from=+status@broadcast text="Andou bou yague bi  profite bien fr✌️🎧🎧🫡💍"
 [13/04 01:43:05] [OUT] to=+status@broadcast | OK | "🤔 Je n'ai pas compris votre choix.
+
+🎓 *Cissokho Format"
+[13/04 02:11:23] [IN] from=+120363293902148468@newsletter text="*📘 FASCICULE DE PRÉPARATION AU CONCOURS CESTI 2026/2027 🎯*
+
+Tu veux réus"
+[13/04 02:11:23] [OUT] to=+120363293902148468@newsletter | OK | "🤔 Je n'ai pas compris votre choix.
+
+🎓 *Cissokho Format"
+[13/04 02:11:23] [IN] from=+6657971097669@lid text="https://github.com/login?client_id=0120e057bd645470c1ed&return_to=%2Flogin%2Foau"
+[13/04 02:11:24] [OUT] to=+6657971097669@lid | OK | "🎓 *Cissokho Formations*
+━━━━━━━━━━━"
+[13/04 02:11:24] [IN] from=+6657971097669@lid text="http://github.com/login/devices"
+[13/04 02:11:25] [OUT] to=+6657971097669@lid | OK | "🤔 Je n'ai pas compris votre choix.
+
+🎓 *Cissokho Format"
+[13/04 02:11:25] [IN] from=+6657971097669@lid text="http://github.com/login/device"
+[13/04 02:11:25] [OUT] to=+6657971097669@lid | OK | "🤔 Je n'ai pas compris votre choix.
+
+🎓 *Cissokho Format"
+[13/04 02:11:25] [IN] from=+status@broadcast text="Lhomme dit tekno bonus pour toi   il tourne comme il veux"
+[13/04 02:11:25] [OUT] to=+status@broadcast | OK | "🤔 Je n'ai pas compris votre choix.
+
+🎓 *Cissokho Format"
+[13/04 02:11:25] [IN] from=+6657971097669@lid text="ici"
+[13/04 02:11:26] [OUT] to=+6657971097669@lid | OK | "🤔 Je n'ai pas compris votre choix.
+
+🎓 *Cissokho Format"
+[13/04 02:11:26] [IN] from=+status@broadcast text="Découvre la vidéo de le20hfrancetelevisions ! #TikTok https://vm.tiktok.com/ZS"
+[13/04 02:11:26] [OUT] to=+status@broadcast | OK | "🤔 Je n'ai pas compris votre choix.
+
+🎓 *Cissokho Format"
+[13/04 02:11:26] [IN] from=+status@broadcast text="Alhamdoulilah 1 de plus 
+Merci beaucoup ma grande sœur ❤️❤️💟 
+Qui m'"
+[13/04 02:11:26] [OUT] to=+status@broadcast | OK | "🤔 Je n'ai pas compris votre choix.
+
+🎓 *Cissokho Format"
+[13/04 02:11:26] [IN] from=+status@broadcast text="Merci beaucoup ma grande sœur ❤️❤️ 
+Madame Diallo,
+Yayou Mohamet"
+[13/04 02:11:26] [OUT] to=+status@broadcast | OK | "🤔 Je n'ai pas compris votre choix.
+
+🎓 *Cissokho Format"
+[13/04 02:11:26] [IN] from=+status@broadcast text="Tjr ensamble un  ami de lngu date  +un frere de  sang   profite bien tw day 🎧"
+[13/04 02:11:26] [OUT] to=+status@broadcast | OK | "🤔 Je n'ai pas compris votre choix.
+
+🎓 *Cissokho Format"
+[13/04 02:11:37] [IN] from=+status@broadcast text="Merci beaucoup ma grande sœur ❤️❤️ 
+Madame Diallo,
+Yayou Mohamet"
+[13/04 02:11:37] [OUT] to=+status@broadcast | OK | "🤔 Je n'ai pas compris votre choix.
 
 🎓 *Cissokho Format"
